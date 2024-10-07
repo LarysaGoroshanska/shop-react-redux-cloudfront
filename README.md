@@ -1,3 +1,13 @@
+## Task 2. App links
+
+### Created in AWS console
+
+`S3` - https://lara-bucket-name.s3.eu-central-1.amazonaws.com/
+
+### Created using AWS CDK
+
+`CloudFront` - https://d28h3qa0pirxao.cloudfront.net
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
